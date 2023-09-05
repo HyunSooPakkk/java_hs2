@@ -28,5 +28,6 @@ public class J0905_01 {
 		System.out.println("랜덤숫자: "+random);
 	
 	}//main
-
+    // 외우깅
+	
 }//class
