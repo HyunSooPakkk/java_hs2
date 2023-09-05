@@ -14,8 +14,10 @@ public class JA0904_11 {
 			if(sum>=200 && sum-i<200) {
 				
 				
+			
 		}
 		
+			
 		System.out.println("합계: "+sum);
 		
 		
