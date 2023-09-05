@@ -19,6 +19,7 @@ public class J0905_15_14copy {
 		int random = (int)(Math.random()*100)+1;
 		int num[] = new int[10];
 		
+		
 		while(i<10) {
 			System.out.println("1-100까지의 숫자를 입력하세요.");
 			int input = scan.nextInt();
