@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class J0905_15_14copy {
 
 	public static void main(String[] args) {
+		// 외워질때까지 똑같이 쓰는 페이지
 		// Question: 1-100까지 랜덤숫자를 생성해서 맞추는 프로그램을 구현하시오.
 		// H1. 랜덤숫자 생성
 		// H2. while 무한루프
