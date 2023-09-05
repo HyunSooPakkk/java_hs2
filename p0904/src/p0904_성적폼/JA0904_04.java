@@ -17,7 +17,7 @@ public class JA0904_04 {
 
 		if (score >= 90) {
 			// System.out.print("A");
-		grade = "A";
+		    grade = "A";
 			if (score >= 98) {
 				// System.out.println("+");
 				grade = grade + "+";
@@ -25,7 +25,8 @@ public class JA0904_04 {
 				// System.out.println("-");
 				grade = grade + "-";
 			}
-		} else if (score >= 80) {
+			
+		    } else if (score >= 80) {
 			// System.out.print("B");
 			grade = "B";
 			if (score >= 88) {
@@ -35,16 +36,34 @@ public class JA0904_04 {
 			// System.out.println("-");
 			grade = grade + "-";
 			}
-		} else if (score >= 70) {
 			
-		}else if (score >= 60) {
+		    } else if (score >= 70) {
+			// System.out.print("C");
+			grade = "C";
+			if (score >= 78) {
+			// System.out.println("+");
+			grade = grade + "+";
+			} else if (score <= 73) {
+			// System.out.println("-");
+			grade = grade + "-";
+			}
 			
+		    }else if (score >= 60) {
+			// System.out.print("D");
+			grade = "D";
+			if (score >= 68) {
+			// System.out.println("+");
+			grade = grade + "+";
+			} else if (score <= 63) {
+			// System.out.println("-");
+			grade = grade + "-";
+			}
 			
-		} else {
+		    } else {
 			//System.out.print("F");
 			grade = "F";
 		
-		}
+		    }
 			System.out.println("점수: " + score);
 			System.out.println("학점: " + grade);
 		
