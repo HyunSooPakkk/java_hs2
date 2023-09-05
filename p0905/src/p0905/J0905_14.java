@@ -51,6 +51,7 @@ public class J0905_14 {
 //		System.out.println(num); //주소값 출력됨
 //		System.out.println();
 //		System.out.println(Arrays.toString(num)); //배열의 모든 값을 출력(참고)
+			// 싹 다 외우기
 		
 		
 	}// main
