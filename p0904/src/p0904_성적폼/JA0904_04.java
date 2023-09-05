@@ -68,5 +68,6 @@ public class JA0904_04 {
 			System.out.println("학점: " + grade);
 		
 	}// main
+	//복습하깅
 		
 }// class
