@@ -15,6 +15,7 @@ public class J0905_17_14copy3 {
 		// H5. "입력한 숫자보다 큰 수/작은 수 입니다." notice
 		// H6. 정답일 때 break; 사용
 
+		
 		Scanner scan = new Scanner(System.in);
 		int[] arrNum = new int[10];
 		int number = 0;
