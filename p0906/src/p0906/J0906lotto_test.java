@@ -26,7 +26,6 @@ public class J0906lotto_test {
 				lotto[random] = temp;
 			}//for	
 			
-			
 		//당첨번호 입력
 			for(int i=0;i<6;i++) {
 				winNum[i] = lotto[i];
