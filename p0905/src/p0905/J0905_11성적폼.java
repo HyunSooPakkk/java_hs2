@@ -18,6 +18,7 @@ public class J0905_11성적폼 {
 			System.out.println("원하는 번호를 입력하세요.>>");
 			
 			int choice = scan.nextInt();
+			
 		
 			switch(choice) {
 			case 1:
