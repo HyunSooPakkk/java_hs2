@@ -15,6 +15,7 @@ public class J0907_08 {
 		String s = no+"";
 		
 		
+		
 		int start = 1;
 		start = start+1; //정수형 start에 1을 더해서 start방에 2를 입력. 100번 반복해도 1개의 방만 만들어짐.
 		s = s+"안녕"; //100번 반복하면 100개의 방이 만들어짐.
