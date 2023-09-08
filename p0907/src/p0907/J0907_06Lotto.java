@@ -33,9 +33,6 @@ public class J0907_06Lotto {
 		//당첨번호 입력
 			for(int i=0;i<6;i++) {
 				winNum[i] = lotto[i];
-				
-				
-				
 			}//for
 			System.out.println(Arrays.toString(winNum));
 			System.out.println("---------------------------------");
