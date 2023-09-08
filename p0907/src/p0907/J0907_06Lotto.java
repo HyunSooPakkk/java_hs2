@@ -10,6 +10,7 @@ public class J0907_06Lotto {
 		//각주 순서대로 외우기 변전번당나당나당
 		Scanner scan = new Scanner(System.in);
 		
+		
 		//변수 선언
 		int[] lotto = new int[45];
 		int[] winNum = new int[6];
